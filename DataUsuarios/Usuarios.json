@@ -1,40 +1,207 @@
 [
-    {
-    "Nombre":{
-            "Nombre1":"Juan",
-            "Nombre2":"Maria",
-            "Apellido1":"Perez"
-        },
-    "Correo":"juan.perez@example.com",
-    "Contraseña":"password123",
-    "Rol":"Admin"
+  {
+    "Nombre": {
+      "Nombre1": "Juan",
+      "Nombre2": "Carlos",
+      "Apellido1": "Perez",
+      "Apellido2": "Lopez"
     },
-    {
-    "Nombre":{
-            "Nombre1":"Ana",
-            "Apellido1":"Lopez",
-            "Apellido2":"Garcia"
-        },
-    "Correo":"ana.lopez@example.com",
-    "Contraseña":"password456",
-    "Rol":"User"
+    "Correo": "juan@mail.com",
+    "Contraseña": "ju12345",
+    "Rol": "Administrador"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Maria",
+      "Apellido1": "Gomez",
+      "Apellido2": "Rojas"
     },
-    {
-    "Nombre":{
-            "Nombre1":"Carlos",
-            "Apellido1":"Sanchez",
-            "Apellido2":"Martinez"
-        },
-    "Correo":"carlos.sanchez@example.com",
-    "Contraseña":"password789",
-    "Rol":"invitado"
+    "Correo": "maria@mail.com",
+    "Contraseña": "ma67891",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Luis",
+      "Nombre2": "Andres",
+      "Apellido1": "Torres",
+      "Apellido2": "Diaz"
     },
-    {
-    "Nombre":{
-            "Nombre1":"Laura",
-            "Nombre2":"Martina",
-            "Apellido1":"Gomez",
-            "Apellido2":"Diaz"
-        }
-    }
+    "Correo": "luis@mail.com",
+    "Contraseña": "ra111213",
+    "Rol": "invitado"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Ana",
+      "Apellido1": "Martinez",
+      "Apellido2": "Castro"
+    },
+    "Correo": "ana@mail.com",
+    "Contraseña": "am1426",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Pedro",
+      "Nombre2": "Jose",
+      "Apellido1": "Ramirez",
+      "Apellido2": "Mora"
+    },
+    "Correo": "pedro@mail.com",
+    "Contraseña": "po1718",
+    "Rol": "invitado"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Laura",
+      "Apellido1": "Fernandez",
+      "Apellido2": "Ruiz"
+    },
+    "Correo": "laura@mail.com",
+    "Contraseña": "1891pi",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Carlos",
+      "Nombre2": "Eduardo",
+      "Apellido1": "Vargas",
+      "Apellido2": "Reyes"
+    },
+    "Correo": "carlos@mail.com",
+    "Contraseña": "9065ci",
+    "Rol": "Administrador"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Sofia",
+      "Apellido1": "Morales",
+      "Apellido2": "Vega"
+    },
+    "Correo": "sofia@mail.com",
+    "Contraseña": "mi7826",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Diego",
+      "Nombre2": "Alejandro",
+      "Apellido1": "Herrera",
+      "Apellido2": "Luna"
+    },
+    "Correo": "diego@mail.com",
+    "Contraseña": "cio37642",
+    "Rol": "invitado"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Valentina",
+      "Apellido1": "Castillo",
+      "Apellido2": "Rincon"
+    },
+    "Correo": "vale@mail.com",
+    "Contraseña": "picu1782",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Miguel",
+      "Apellido1": "Ortega",
+      "Apellido2": "Silva"
+    },
+    "Correo": "miguel@mail.com",
+    "Contraseña": "ci7438",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Daniela",
+      "Apellido1": "Navarro",
+      "Apellido2": "Pardo"
+    },
+    "Correo": "daniela@mail.com",
+    "Contraseña": "pou9274",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Jorge",
+      "Apellido1": "Rios",
+      "Apellido2": "Peña"
+    },
+    "Correo": "jorge@mail.com",
+    "Contraseña": "chu1873",
+    "Rol": "Invitado"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Camila",
+      "Apellido1": "Suarez",
+      "Apellido2": "Mejia"
+    },
+    "Correo": "camila@mail.com",
+    "Contraseña": "xi374",
+    "Rol": "Administrador"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Andres",
+      "Apellido1": "Cardona",
+      "Apellido2": "Velez"
+    },
+    "Correo": "andres@mail.com",
+    "Contraseña": "as3774",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Paula",
+      "Apellido1": "Santos",
+      "Apellido2": "Gil"
+    },
+    "Correo": "paula@mail.com",
+    "Contraseña": "09cy4",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Julian",
+      "Apellido1": "Cortes",
+      "Apellido2": "Navas"
+    },
+    "Correo": "julian@mail.com",
+    "Contraseña": "cnejh613",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Mariana",
+      "Apellido1": "Acosta",
+      "Apellido2": "Parra"
+    },
+    "Correo": "mariana@mail.com",
+    "Contraseña": "ewhj6164",
+    "Rol": "Usuario"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Felipe",
+      "Apellido1": "Salazar",
+      "Apellido2": "Nieto"
+    },
+    "Correo": "felipe@mail.com",
+    "Contraseña": "cn61248",
+    "Rol": "invitado"
+  },
+  {
+    "Nombre": {
+      "Nombre1": "Isabella",
+      "Apellido1": "Montoya",
+      "Apellido2": "Bravo"
+    },
+    "Correo": "isa@mail.com",
+    "Contraseña": "cnw72849",
+    "Rol": "Usuario"
+  }
 ]
