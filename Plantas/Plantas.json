@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": {
+      "comun": "Aloe vera",
+      "cientifico": "Aloe barbadensis miller"
+    },
+    "tipo_planta": "medicinal",
+    "descripcion": "Planta suculenta conocida por sus propiedades medicinales, especialmente por el gel de sus hojas que ayuda a la piel.",
+    "estado_planta": "En crecimiento",
+    "cuidado_planta": "Necesita poca agua, luz indirecta y suelo bien drenado."
+  },
+  {
+    "nombre": {
+      "comun": "Lavanda",
+      "cientifico": "Lavandula angustifolia"
+    },
+    "tipo_planta": "aromática",
+    "descripcion": "Planta aromática perenne conocida por sus flores púrpuras, su aroma relajante y sus usos medicinales.",
+    "estado_planta": "Necesita riego",
+    "cuidado_planta": "Necesita mucho sol y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Romero",
+      "cientifico": "Rosmarinus officinalis"
+    },
+    "tipo_planta": "aromática",
+    "descripcion": "Planta aromática y medicinal muy resistente, utilizada en cocina y remedios naturales.",
+    "estado_planta": "Saludable",
+    "cuidado_planta": "Poco riego y mucha luz solar."
+  },
+  {
+    "nombre": {
+      "comun": "Albahaca",
+      "cientifico": "Ocimum basilicum"
+    },
+    "tipo_planta": "aromática",
+    "descripcion": "Planta muy utilizada en la cocina por su aroma fresco y sabor característico.",
+    "estado_planta": "En crecimiento",
+    "cuidado_planta": "Riego constante y sol moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Girasol",
+      "cientifico": "Helianthus annuus"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta conocida por su gran flor amarilla que sigue la luz del sol durante el día.",
+    "estado_planta": "En crecimiento",
+    "cuidado_planta": "Mucho sol y riego constante."
+  },
+  {
+    "nombre": {
+      "comun": "Manzanilla",
+      "cientifico": "Matricaria chamomilla"
+    },
+    "tipo_planta": "medicinal",
+    "descripcion": "Planta medicinal muy utilizada en infusiones por sus propiedades calmantes y digestivas.",
+    "estado_planta": "En crecimiento",
+    "cuidado_planta": "Sol moderado y riego ligero."
+  },
+  {
+    "nombre": {
+      "comun": "Clavel",
+      "cientifico": "Dianthus caryophyllus"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta ornamental con flores fragantes y de colores variados, muy usada en decoración.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Sol directo y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Jazmín",
+      "cientifico": "Jasminum officinale"
+    },
+    "tipo_planta": "aromática",
+    "descripcion": "Planta aromática con flores blancas muy fragantes, utilizada en jardines y perfumería.",
+    "estado_planta": "Saludable",
+    "cuidado_planta": "Sol parcial y riego regular."
+  },
+  {
+    "nombre": {
+      "comun": "Crisantemo",
+      "cientifico": "Chrysanthemum morifolium"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta ornamental muy popular por la diversidad de formas y colores de sus flores.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Necesita sol y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Lirio",
+      "cientifico": "Lilium candidum"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta elegante con flores grandes y fragantes, muy utilizada en jardines y arreglos florales.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Prefiere sol parcial y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Rosa",
+      "cientifico": "Rosa gallica"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Arbusto ornamental muy conocido por sus flores elegantes, fragantes y de gran valor decorativo en jardines.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Requiere sol directo, riego moderado y poda regular."
+  },
+  {
+    "nombre": {
+      "comun": "Tulipán",
+      "cientifico": "Tulipa gesneriana"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta bulbosa muy popular por sus flores de colores vivos, ampliamente utilizada en jardinería.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Prefiere clima fresco, sol y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Orquídea",
+      "cientifico": "Phalaenopsis amabilis"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta ornamental muy apreciada por la belleza exótica de sus flores y su uso en decoración de interiores.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Necesita luz indirecta, humedad y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Geranio",
+      "cientifico": "Pelargonium zonale"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta ornamental resistente y muy común en jardines y balcones por sus flores coloridas.",
+    "estado_planta": "Saludable",
+    "cuidado_planta": "Requiere sol directo y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Cactus",
+      "cientifico": "Echinocactus grusonii"
+    },
+    "tipo_planta": "suculenta",
+    "descripcion": "Planta suculenta muy conocida por su resistencia y capacidad de almacenar agua en ambientes secos.",
+    "estado_planta": "Saludable",
+    "cuidado_planta": "Necesita mucha luz y riego muy escaso."
+  },
+  {
+    "nombre": {
+      "comun": "Helecho",
+      "cientifico": "Nephrolepis exaltata"
+    },
+    "tipo_planta": "interior",
+    "descripcion": "Planta muy utilizada en interiores por su follaje abundante y su capacidad de adaptarse a espacios con poca luz.",
+    "estado_planta": "En crecimiento",
+    "cuidado_planta": "Prefiere sombra, alta humedad y riego frecuente."
+  },
+  {
+    "nombre": {
+      "comun": "Hiedra",
+      "cientifico": "Hedera helix"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta trepadora muy común en jardines, utilizada para cubrir muros y superficies verticales.",
+    "estado_planta": "Saludable",
+    "cuidado_planta": "Sombra parcial y riego moderado."
+  },
+  {
+    "nombre": {
+      "comun": "Buganvilla",
+      "cientifico": "Bougainvillea spectabilis"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta trepadora muy popular en climas cálidos, conocida por sus colores intensos y su resistencia.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Requiere mucho sol y poco riego."
+  },
+  {
+    "nombre": {
+      "comun": "Dalia",
+      "cientifico": "Dahlia variabilis"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta ornamental de flores grandes y vistosas, muy utilizada en jardines decorativos.",
+    "estado_planta": "En crecimiento",
+    "cuidado_planta": "Sol directo, riego constante y suelo fértil."
+  },
+  {
+    "nombre": {
+      "comun": "Margarita",
+      "cientifico": "Bellis perennis"
+    },
+    "tipo_planta": "ornamental",
+    "descripcion": "Planta herbácea muy conocida por sus flores blancas con centro amarillo, símbolo de sencillez.",
+    "estado_planta": "Floreciendo",
+    "cuidado_planta": "Sol y riego moderado."
+  }
+]

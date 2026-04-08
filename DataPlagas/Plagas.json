@@ -1,0 +1,193 @@
+[
+  {  
+
+  "nombre_plaga": "Mildiu",
+  "descripcion_plaga": "Hongo humedo",
+  "sintoma_plaga": "Moho gris",
+  "tratamiento_plaga": "Mejorar ventilacion",
+  "imagen_plaga": "mildiu.jpg"
+},
+
+
+{
+  
+  "nombre_plaga": "Pulgones",
+  "descripcion_plaga": "Insectos pequeños verdes",
+  "sintoma_plaga": "Hojas pegajosas",
+  "tratamiento_plaga": "Jabon potasico"
+ 
+},
+
+{
+  "nombre_plaga": "Cochinilla",
+  "descripcion_plaga": "Insecto blanco algodonoso",
+  "sintoma_plaga": "Manchas blancas",
+  "tratamiento_plaga": "Alcohol diluido"
+ 
+},
+
+
+{
+  
+  "nombre_plaga": "Araña Roja",
+  "descripcion_plaga": "Acari rojo",
+  "sintoma_plaga": "Hojas amarillas",
+  "tratamiento_plaga": "Aumentar humedad"
+  
+},
+
+{
+    
+  "nombre_plaga": "Mosca Blanca",
+  "descripcion_plaga": "Insecto volador blanco",
+  "sintoma_plaga": "Hojas debiles",
+  "tratamiento_plaga": "Insecticida natural"
+  
+},
+
+{ 
+   
+  "nombre_plaga": "Trips",
+  "descripcion_plaga": "Insecto pequeno alargado",
+  "sintoma_plaga": "Hojas plateadas",
+  "tratamiento_plaga": "Aceite de neem"
+ 
+},
+
+
+
+{
+  "nombre_plaga": "Orugas",
+  "descripcion_plaga": "Larvas verdes",
+  "sintoma_plaga": "Hojas comidas",
+  "tratamiento_plaga": "Retiro manual"
+  
+},
+
+
+
+
+{
+    
+  "nombre_plaga": "Caracoles",
+  "descripcion_plaga": "Moluscos de jardin",
+  "sintoma_plaga": "Hojas mordidas",
+  "tratamiento_plaga": "Cebo natural"
+ 
+},
+
+
+{
+  
+  "nombre_plaga": "Roya",
+  "descripcion_plaga": "Hongo anaranjado",
+  "sintoma_plaga": "Puntos naranjas",
+  "tratamiento_plaga": "Fungicida"
+},
+
+{
+
+  "nombre_plaga": "Escarabajo",
+  "descripcion_plaga": "Insecto masticador",
+  "sintoma_plaga": "Hojas agujereadas",
+  "tratamiento_plaga": "Insecticida"
+},
+
+
+{
+   
+  "nombre_plaga": "Hormigas",
+  "descripcion_plaga": "Insectos sociales",
+  "sintoma_plaga": "Presencia en tierra",
+  "tratamiento_plaga": "Control natural"
+},
+
+
+{
+   
+  "nombre_plaga": "Babosas",
+  "descripcion_plaga": "Moluscos nocturnos",
+  "sintoma_plaga": "Rastros babosos",
+  "tratamiento_plaga": "Trampas"
+},
+
+
+{
+   
+  "nombre_plaga": "Minador",
+  "descripcion_plaga": "Larva interna",
+  "sintoma_plaga": "Lineas en hojas",
+  "tratamiento_plaga": "Poda afectada"
+
+},
+
+
+{
+  
+  "nombre_plaga": "Gusano",
+  "descripcion_plaga": "Larva subterranea",
+  "sintoma_plaga": "Planta debil",
+  "tratamiento_plaga": "Control biologico"
+},
+
+
+{  
+    
+  "nombre_plaga": "Chinche",
+  "descripcion_plaga": "Insecto succionador",
+  "sintoma_plaga": "Manchas cafes",
+  "tratamiento_plaga": "Insecticida natural"
+  
+},
+
+
+{
+   
+  "nombre_plaga": "Polilla",
+  "descripcion_plaga": "Insecto nocturno",
+  "sintoma_plaga": "Hojas danadas",
+  "tratamiento_plaga": "Trampas luz"
+ 
+},
+
+
+{
+
+  "nombre_plaga": "Termitas",
+  "descripcion_plaga": "Insecto madera",
+  "sintoma_plaga": "Raices danadas",
+  "tratamiento_plaga": "Control quimico"
+},
+
+
+{
+  
+  "nombre_plaga": "Mosquito",
+  "descripcion_plaga": "Insecto volador",
+  "sintoma_plaga": "Larvas en agua",
+  "tratamiento_plaga": "Eliminar agua"
+},
+
+
+{
+   
+  "nombre_plaga": "Escama",
+  "descripcion_plaga": "Insecto adherido",
+  "sintoma_plaga": "Costras en tallo",
+  "tratamiento_plaga": "Aceite neem"
+  
+},
+
+{
+   
+  "nombre_plaga": "Hongos",
+  "descripcion_plaga": "Enfermedad fungica",
+  "sintoma_plaga": "Manchas negras",
+  "tratamiento_plaga": "Fungicida"
+},
+ 
+{}
+
+
+
+]
